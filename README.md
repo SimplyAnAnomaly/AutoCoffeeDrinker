@@ -8,6 +8,8 @@
 - Machine selection;
 - UI;
 - 4 Languages (English, Spanish, Portuguese & Indonesian);
+- Jumps at random times;
+- Moves mouse around randomly;
 - 2 Player 1 machine mode ("Same machine?" switch).
 
 # Downloading
